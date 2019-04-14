@@ -1,5 +1,6 @@
 package com.mrskar
 
+import com.mrskar.model.request.PostSnippet
 import io.ktor.application.call
 import io.ktor.http.ContentType
 import io.ktor.request.receive
