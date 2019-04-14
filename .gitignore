@@ -5,3 +5,7 @@
 *.iml
 *.ipr
 *.iws
+gradlew.bat
+gradlew
+gradle/wrapper/gradle-wrapper.jar
+gradle/wrapper/gradle-wrapper.properties
