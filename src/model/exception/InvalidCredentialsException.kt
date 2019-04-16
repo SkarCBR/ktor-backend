@@ -1,4 +1,3 @@
 package com.mrskar.model.exception
 
-class InvalidCredentialsException {
-}
+class InvalidCredentialsException(message: String) : RuntimeException(message)
